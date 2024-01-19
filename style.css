@@ -2,3 +2,7 @@ body, html {
     font-family: 'Rubik', sans-serif;
     background-color: #262626;
 }
+
+.creations {
+    display: inline-flex;
+}
